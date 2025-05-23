@@ -6,8 +6,9 @@
 - Instagram: instagram.com/mathers.weeknd
 - Linkedin:linkedin.com/in/mathersweeknd
 - ⚡ Curiosities: I have 3 cats, I like listening to music, playing games, reading, studying, cooking and watching the moon and stars.
-
-- - 👋 Olá, eu sou @mathersweeknd - Meu nome é Matheus, tenho 22 anos e moro no Brasil.
+  
+PT-BR
+- 👋 Olá, eu sou @mathersweeknd - Meu nome é Matheus, tenho 22 anos e moro no Brasil.
 - 👀 Tenho interesse em empregos e desafios.
 - 🌱 Atualmente estou aprendendo desenvolvimento full-stack.
 - 💞️ Busco colaborar em projetos, inovações, desenvolvimento, gestão e outros.
