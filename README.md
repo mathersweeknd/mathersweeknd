@@ -1,9 +1,4 @@
 # Olá, eu sou Matheus 👋🏼
-
-<a href="https://www.linkedin.com/in/mathersweeknd" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
 - 👋🏼 Olá, seja bem-vindo ao meu perfil, eu sou @mathersweeknd - Meu nome é Matheus, tenho 22 anos e moro no Brasil.
 - 🎯 Tenho interesse em empregos e desafios.
 - 📖 Atualmente estou aprendendo desenvolvimento full-stack.
