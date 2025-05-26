@@ -6,9 +6,6 @@
 - ❤️‍🔥 Curiosidades: Tenho 3 gatos 🐈, gosto de ouvir música, jogar, ler, estudar, cozinhar e observar a lua e as estrelas.
 - 📫 Como me contatar: <br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathersweeknd)
-<a href="https://www.linkedin.com/in/mathersweeknd" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
 [![Instagram](https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathers.weeknd) </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathersweeknd&layout=donut)](https://github.com/mathersweeknd/github-readme-stats)</br>
