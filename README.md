@@ -39,7 +39,7 @@
   
 <div style="display: inline_block">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,php,ts,react,python,java,bootstrap,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,ts,mysql,python,react,angular,gitlab,aws,visualstudio,vscode&perline=14" />
   </a>
 </div>
 
