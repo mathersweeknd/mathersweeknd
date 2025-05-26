@@ -6,7 +6,7 @@
 - 📫 Como me contatar: <br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathersweeknd) 
 [![Instagram](https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathers.weeknd) </br>
-⚡ Curiosidades: Tenho 3 gatos, gosto de ouvir música, jogar, ler, estudar, cozinhar e observar a lua e as estrelas.
+- ⚡ Curiosidades: Tenho 3 gatos, gosto de ouvir música, jogar, ler, estudar, cozinhar e observar a lua e as estrelas.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CammyArts&layout=donut)](https://github.com/CammyArts/github-readme-stats)
 
