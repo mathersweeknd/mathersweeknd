@@ -33,7 +33,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathersweeknd) 
 [![Instagram](https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathers.weeknd) </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathersweeknd&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mathersweeknd/github-readme-stats#gh-dark-mode-only)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathersweeknd&layout=donut&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mathersweeknd/github-readme-stats#gh-dark-mode-only)</br>
 
 - 🎨 Most used technologies:
   
