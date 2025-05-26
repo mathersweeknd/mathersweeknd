@@ -21,7 +21,6 @@
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </div>
 
-- EN-US
 # Hi, I'm Matheus 👋
 - 👋 Hi, I’m @mathersweeknd - My name is Matheus. I'm 22 years old and i live in Brazil.
 - 👀 I’m interested in jobs and challenges.
