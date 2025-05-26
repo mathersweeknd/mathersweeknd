@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathersweeknd) 
 [![Instagram](https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathers.weeknd) </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CammyArts&layout=donut)](https://github.com/CammyArts/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathersweeknd&layout=donut)](https://github.com/mathersweeknd/github-readme-stats)
 
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-BA55D3?style=for-the-badge&logo=html5&logoColor=white" />
