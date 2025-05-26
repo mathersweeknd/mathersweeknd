@@ -38,14 +38,9 @@
 - 🎨 Most used technologies:
   
 <div style="display: inline_block">
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-BA55D3?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css5" src="https://img.shields.io/badge/CSS3-8B008B?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-836FFF?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-8B008B?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="center" alt="bootstrap" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="bootstrap" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="center" alt="bootstrap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,php,ts,react,python,java,bootstrap,&perline=14" />
+  </a>
 </div>
 
 # Thank you for visiting my profile, come back soon! 🦇
