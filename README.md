@@ -1,5 +1,5 @@
 # Olá, eu sou Matheus 👋🏼
-- 👋🏼 Olá, eu sou @mathersweeknd - Meu nome é Matheus, tenho 22 anos e moro no Brasil.
+- 👋🏼 Olá, seja bem-vindo ao meu perfil, eu sou @mathersweeknd - Meu nome é Matheus, tenho 22 anos e moro no Brasil.
 - 🎯 Tenho interesse em empregos e desafios.
 - 📖 Atualmente estou aprendendo desenvolvimento full-stack.
 - 🎊 Busco colaborar em projetos, inovações, desenvolvimento, gestão e outros.
@@ -9,7 +9,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathers.weeknd) </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathersweeknd&layout=donut)](https://github.com/mathersweeknd/github-readme-stats)</br>
-- 🎨 Linguagens mais utilizadas:
+
+- 🎨 Tecnologias mais utilizadas:
+  
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-BA55D3?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css5" src="https://img.shields.io/badge/CSS3-8B008B?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,7 +29,7 @@
 <div/>
   
 # Hi, I'm Matheus 👋🏼
-- 👋🏼 Hi, I’m @mathersweeknd - My name is Matheus. I'm 22 years old and i live in Brazil.
+- 👋🏼 Hello, welcome to my profile, I’m @mathersweeknd - My name is Matheus. I'm 22 years old and i live in Brazil.
 - 🎯 I’m interested in jobs and challenges.
 - 📖 I’m currently learning full-stack development.
 - 🎊 I’m looking to collaborate on projects, innovations, development, management and others.
@@ -37,7 +39,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathers.weeknd) </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathersweeknd&layout=donut)](https://github.com/mathersweeknd/github-readme-stats)</br>
-- 🎨 Most used languages:
+
+- 🎨 Most used technologies:
+  
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-BA55D3?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css5" src="https://img.shields.io/badge/CSS3-8B008B?style=for-the-badge&logo=css3&logoColor=white" />
