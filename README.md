@@ -33,7 +33,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathersweeknd&layout=donut)](https://github.com/mathersweeknd/github-readme-stats)</br>
 - 🎨 Most used languages:
-- <div style="display: inline_block">
+<div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-BA55D3?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css5" src="https://img.shields.io/badge/CSS3-8B008B?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-836FFF?style=for-the-badge&logo=python&logoColor=white" />
