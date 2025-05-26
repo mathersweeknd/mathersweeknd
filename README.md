@@ -3,11 +3,21 @@
 - 👀 Tenho interesse em empregos e desafios.
 - 🌱 Atualmente estou aprendendo desenvolvimento full-stack.
 - 💞️ Busco colaborar em projetos, inovações, desenvolvimento, gestão e outros.
-- 📫 Como me contatar:
+- 📫 Como me contatar: <br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathersweeknd) 
 [![Instagram](https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathers.weeknd)
 - ⚡ Curiosidades: Tenho 3 gatos, gosto de ouvir música, jogar, ler, estudar, cozinhar e observar a lua e as estrelas.
-  
+  <div style="display: inline_block">
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-BA55D3?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css5" src="https://img.shields.io/badge/CSS3-8B008B?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-836FFF?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-8B008B?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+
+<br/><br/>
 - EN-US
   
 - 👋 Hi, I’m @mathersweeknd - My name is Matheus. I'm 22 years old and i live in Brazil.
