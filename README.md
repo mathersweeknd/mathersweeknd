@@ -21,7 +21,7 @@
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-</div></br>
+</div>
 
 # Obrigado por visitar meu perfil, volte sempre! 🦇
 <div>
@@ -51,7 +51,7 @@
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-</div></br>
+</div>
 
 # Thank you for visiting my profile, come back soon! 🦇
 <div>
