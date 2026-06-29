@@ -8,8 +8,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathersweeknd)
 [![Instagram](https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathers.weeknd) </br>
 
-</br>
-
 - 🎨 Tecnologias mais utilizadas:
   
 <div style="display: inline_block">
@@ -32,8 +30,6 @@
 - 📫 How to reach me:</br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathersweeknd) 
 [![Instagram](https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mathers.weeknd) </br>
-
-</br>
 
 - 🎨 Most used technologies:
   
